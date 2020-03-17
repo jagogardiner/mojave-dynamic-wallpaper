@@ -1,6 +1,6 @@
 # Mojave Dyanmic Wallpaper for KDE
 
-** These images/wallpapers are fully owned by Apple and not owned by me! **
+**These images/wallpapers are fully owned by Apple and not owned by me!**
 
 ## What does it work with?
 I've confirmed it to work with the plasma5-wallpapers-dynamic plugin, on KDE Plasma 5.

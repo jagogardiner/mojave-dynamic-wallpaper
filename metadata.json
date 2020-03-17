@@ -1,0 +1,92 @@
+{
+    "KPlugin": {
+        "Id": "mojave",
+        "Name": "Mojave"
+    },
+    "Wallpaper": {
+        "Preview": "mojave_dynamic_1.jpeg",
+        "Type": "solar",
+        "MetaData": [
+            {
+                "Azimuth": 81.775887144809985,
+                "Elevation": -10.239758644725035,
+                "FileName": "mojave_dynamic_1.jpeg"
+            },
+            {
+                "Azimuth": 86.33545030477751,
+                "Elevation": -4.2477344080754564,
+                "FileName": "mojave_dynamic_2.jpeg"
+            },
+            {
+                "Azimuth": 90.812670374961954,
+                "Elevation": 1.3890866331008431,
+                "FileName": "mojave_dynamic_3.jpeg"
+            },
+            {
+                "Azimuth": 95.307409588765893,
+                "Elevation": 7.167168970526129,
+                "FileName": "mojave_dynamic_4.jpeg"
+            },
+            {
+                "Azimuth": 99.920629632689383,
+                "Elevation": 13.08619419164163,
+                "FileName": "mojave_dynamic_5.jpeg"
+            },
+            {
+                "Azimuth": 129.18652208191957,
+                "Elevation": 40.415639464904281,
+                "FileName": "mojave_dynamic_6.jpeg"
+            },
+            {
+                "Azimuth": 182.23309425497897,
+                "Elevation": 53.433472661727741,
+                "FileName": "mojave_dynamic_7.jpeg"
+            },
+            {
+                "Azimuth": 233.55159195809590,
+                "Elevation": 38.793128200638632,
+                "FileName": "mojave_dynamic_8.jpeg"
+            },
+            {
+                "Azimuth": 261.87159046576664,
+                "Elevation": 11.089423171265878,
+                "FileName": "mojave_dynamic_9.jpeg"
+            },
+            {
+                "Azimuth": 266.44327370710512,
+                "Elevation": 5.1845753236736245,
+                "FileName": "mojave_dynamic_10.jpeg"
+            },
+            {
+                "Azimuth": 270.9334057827339,
+                "Elevation": -0.34275283875350282,
+                "FileName": "mojave_dynamic_11.jpeg"
+            },
+            {
+                "Azimuth": 275.44204536695253,
+                "Elevation": -6.2483093741227886,
+                "FileName": "mojave_dynamic_12.jpeg"
+            },
+            {
+                "Azimuth": 280.07031589401172,
+                "Elevation": -12.20770735214884,
+                "FileName": "mojave_dynamic_13.jpeg"
+            },
+            {
+                "Azimuth": 309.41857318745144,
+                "Elevation": -39.48933951993012,
+                "FileName": "mojave_dynamic_14.jpeg"
+            },
+            {
+                "Azimuth": 2.1750965538675473,
+                "Elevation": -52.753181378799347,
+                "FileName": "mojave_dynamic_15.jpeg"
+            },
+            {
+                "Azimuth": 53.509085812513091,
+                "Elevation": -38.04743388682422,
+                "FileName": "mojave_dynamic_16.jpeg"
+            }
+        ]
+    }
+}

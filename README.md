@@ -20,4 +20,5 @@ Clone this repo to /usr/share/dynamicwallpapers/mojave using the command:
 
 ## Credits
 For the base metadata (tweaked for my liking): https://itnext.io/macos-mojave-dynamic-wallpaper-fd26b0698223
+
 Wallpapers: Apple

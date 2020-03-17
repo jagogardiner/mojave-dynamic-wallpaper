@@ -1,7 +1,13 @@
 {
     "KPlugin": {
-        "Id": "mojave",
-        "Name": "Mojave"
+        "Authors": [
+            {
+                "Email": "jago@nysascape.digital",
+                "Name": "nysascape"
+            }
+        ],
+        "Id": "mojave-dynamic",
+        "Name": "Mojave Dynamic Wallpaper"
     },
     "Wallpaper": {
         "Preview": "mojave_dynamic_1.jpeg",

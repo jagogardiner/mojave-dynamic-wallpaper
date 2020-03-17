@@ -15,3 +15,7 @@ Make sure you set your longitude/latitude correctly as it is not time based.
 
 Clone this repo to /usr/share/dynamicwallpapers/mojave using the command:
 `sudo git clone https://github.com/nysascape/mojave-dynamic-wallpaper /usr/share/dynamicwallpapers/mojave`
+
+## Credits
+For the base metadata (tweaked for my liking): https://itnext.io/macos-mojave-dynamic-wallpaper-fd26b0698223
+Wallpapers: Apple

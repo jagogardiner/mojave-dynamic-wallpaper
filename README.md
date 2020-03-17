@@ -1,5 +1,7 @@
 # Mojave Dyanmic Wallpaper for KDE
 
+![Example](https://i.imgur.com/0DvPB8S.png)
+
 **These images/wallpapers are fully owned by Apple and not owned by me!**
 
 ## What does it work with?
